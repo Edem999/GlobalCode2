@@ -1,0 +1,11 @@
+print("===================")
+print("STUDENT INFORMATION")
+print("===================")
+print()
+name = input ("please enter your name :")
+age = input ("please enter your age :")
+school = input ("please enter your school :")
+program = input ("please enter your program :")
+level = input ("please enter your level :")
+
+print(f"Your name is {name},you are {age} years old,you attend {school},your program of study is{program},your level is {level}.")
